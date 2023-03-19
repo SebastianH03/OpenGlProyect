@@ -1,0 +1,78 @@
+# Blender MTL File: 'escenablender.blend'
+# Material Count: 7
+
+newmtl Fabulous_Lenzkirch_Wall_Clock-001
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\juan6\\OneDrive\\Escritorio\\Fabulous Lenzkirch Wall Clock-004.jpg
+
+newmtl Fabulous_Lenzkirch_Wall_Clock-002
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\juan6\\OneDrive\\Escritorio\\Fabulous Lenzkirch Wall Clock-005.jpg
+
+newmtl Fabulous_Lenzkirch_Wall_Clock-004
+Ns 199.999995
+Ka 1.000000 1.000000 1.000000
+Kd 0.027451 0.003922 0.003922
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\juan6\\OneDrive\\Escritorio\\Fabulous Lenzkirch Wall Clock-001.jpg
+
+newmtl Fabulous_Lenzkirch_Wall_Clock-005
+Ns 199.999995
+Ka 1.000000 1.000000 1.000000
+Kd 0.027451 0.003922 0.003922
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -o -0.500000 -0.500000 0.000000 -s 0.500000 0.500000 1.000000 C:\\Users\\juan6\\OneDrive\\Escritorio\\Fabulous Lenzkirch Wall Clock-003.jpg
+
+newmtl Fabulous_Lenzkirch_Wall_Clock-007
+Ns 199.999995
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Fabulous_Lenzkirch_Wall_Clock-008
+Ns 199.999995
+Ka 1.000000 1.000000 1.000000
+Kd 0.501961 0.501961 0.501961
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\juan6\\OneDrive\\Escritorio\\Fabulous Lenzkirch Wall Clock-005.jpg
+
+newmtl Fabulous_Lenzkirch_Wall_Clock-009
+Ns 199.999995
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\juan6\\OneDrive\\Escritorio\\Fabulous Lenzkirch Wall Clock-002.jpg
